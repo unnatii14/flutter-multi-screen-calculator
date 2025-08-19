@@ -1,16 +1,52 @@
-# flutter_application_2
+# Flutter multi screen Sum App
 
-A new Flutter project.
+A simple Flutter app that calculates the sum of two numbers with input validation and navigation between multiple screens.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Enter two numbers and calculate their sum.  
+- Input validation (only numbers allowed).  
+- Clear and minimal UI.  
+- Multi-screen navigation.  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+Make sure you have the following installed:
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Dart (comes with Flutter)
+- Android Studio / VS Code (with Flutter plugin)
+
+### Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/unnatii14/flutter-multi-screen-calculator.git
+   cd flutter-multi-screen-calculator
+
+2. Get the dependencies:
+   ```bash
+   flutter pub get
+
+  
+## 📂 Project Structure
+lib/
+
+ ┣ main.dart              
+ 
+ ┣ screens/              
+ 
+ ┗ widgets/            
+ 
+assets/
+
+ ┗ images/               
+ 
+pubspec.yaml   
+
+
+## 🛠️ Tech Stack
+
+- Framework: Flutter
+
+- Language: Dart
