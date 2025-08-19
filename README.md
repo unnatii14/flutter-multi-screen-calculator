@@ -1,5 +1,9 @@
 # Flutter multi screen Sum App
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+![Flutter](https://img.shields.io/badge/Flutter-3.22-blue)
+![Dart](https://img.shields.io/badge/Dart-3.0-blue)
+
 A simple Flutter app that calculates the sum of two numbers with input validation and navigation between multiple screens.
 
 
